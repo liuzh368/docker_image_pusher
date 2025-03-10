@@ -1,8 +1,5 @@
-infiniflow/ragflow:v0.17.0  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/ragflow:v0.17.0
-infiniflow/infinity:v0.6.0-dev3  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/infinity:v0.6.0-dev3
-elasticsearch:8.11.3  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/elasticsearch:8.11.3
-mysql:8.0.39  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/mysql:8.0.39
-postgres:13  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/postgres:13
-redis:6  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/redis:6
-valkey/valkey:8  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/valkey:8
-minio/minio  crpi-f6omq6hcr8lkcafo.cn-beijing.personal.cr.aliyuncs.com/liuzaho_space123/minio
+elasticsearch:8.11.3
+mysql:8.0.39
+redis:6
+valkey/valkey:8
+
